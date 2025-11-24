@@ -1,3 +1,5 @@
+docs\09_agent_mode\4_progress\agent-mode-implementation-roadmap-v4.md
+に従って進捗できているかをレビューしてください。
 "docs\09_agent_mode\README.md" を更新してください。  
 実行した単体テストおよびE2Eテストのカバレッジ率と成功率を記載します。
 全体からどの程度進捗しているか進捗度を確認できるようにしてください。
