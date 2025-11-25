@@ -1,4 +1,7 @@
-docs\09_agent_mode\4_progress\agent-mode-implementation-roadmap-v4.md
+docs\09_agent_mode\3_detail_design\phase_c_architecture.md  
+docs\09_agent_mode\3_detail_design\phase_c_implementation_plan.md
+docs\09_agent_mode\4_progress\phase_c_current_status.md
+とその関連ファイル
 に従って進捗できているかをレビューしてください。
 "docs\09_agent_mode\README.md" を更新してください。  
 実行した単体テストおよびE2Eテストのカバレッジ率と成功率を記載します。
