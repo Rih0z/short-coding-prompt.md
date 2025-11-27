@@ -1,6 +1,3 @@
-docs/09_agent_mode/3_detail_design/phase_d_mcp_integration.md
-とその関連ファイル
-に従って進捗できているかをレビューしてください。
 "docs\09_agent_mode\README.md" を更新してください。  
 実行した単体テストおよびE2Eテストのカバレッジ率と成功率を記載します。
 全体からどの程度進捗しているか進捗度を確認できるようにしてください。
